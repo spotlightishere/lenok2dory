@@ -1,0 +1,4 @@
+[submodule "prebuilt/squashfs-tools"]
+	path = prebuilt/squashfs-tools
+	url = https://github.com/kruton/squashfs-tools.git
+	branch = selinux

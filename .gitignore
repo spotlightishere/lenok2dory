@@ -3,3 +3,4 @@ extract/
 temp/
 *.img
 *.log
+.vagrant
